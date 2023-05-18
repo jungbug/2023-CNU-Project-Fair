@@ -1,0 +1,22 @@
+@font-face {
+  font-family: Hanna;
+  src: url(/font/BMHANNAPro.ttf);
+}
+.margin-mid{
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.margin-left{
+  margin-left: 20px;
+}
+
+.padding10{
+  padding: 10px;
+}
+
+#top-navbar{
+  font-family: Hanna;
+  background-color: #2BC1BC !important;
+}
+
