@@ -10,3 +10,8 @@ for (let i = 1; i < imgs.length; i++) {
     }
   })
 };
+
+const nextButton = document.getElementById('next-button');
+  nextButton.addEventListener('click', () => {
+window.location.href = 'category.html';
+});
