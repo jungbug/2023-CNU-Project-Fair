@@ -80,7 +80,7 @@
   width: 100%;
   height: 4%;
   bottom: 0;
-  background-color: lightgray !important;
+  background-color: rgb(255, 255, 255) !important;
 }
 
 #bottom-div-text {
