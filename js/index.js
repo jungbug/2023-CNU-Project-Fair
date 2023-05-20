@@ -1,4 +1,5 @@
 const imgs = document.querySelectorAll('img');
+const nextButton = document.getElementById('next-button');
 
 for (let i = 1; i < imgs.length; i++) {
   imgs[i].addEventListener('click', function () {
@@ -11,7 +12,6 @@ for (let i = 1; i < imgs.length; i++) {
   })
 };
 
-const nextButton = document.getElementById('next-button');
-  nextButton.addEventListener('click', () => {
-window.location.href = 'category.html';
+nextButton.addEventListener('click', () => {
+  window.location.href = 'category.html';
 });
