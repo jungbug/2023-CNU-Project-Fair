@@ -93,10 +93,14 @@ previousButton3.addEventListener('click', () => {
 });
 
 const lists = () => {
+  // if(listDiv.childElementCount > 0){
+  //   listDiv.remove();
+  //   const div = document.createElement('div');
+  //   div.id = "list-div";
+  //   listContainer.appendChild(div);
+  // }
   selectIndex.forEach((value) => {
-    // value = 동행
     selectIndex2.forEach((value2) => {
-      //value2 = 카테고리
       if (value === "동행") {
         for(let [key,value1] of Object.entries(동행)){
           if(value1 == value2){
@@ -258,6 +262,5 @@ const lists = () => {
         }
       }
     })
-    
   })
 }
