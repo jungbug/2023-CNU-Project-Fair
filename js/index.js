@@ -107,6 +107,8 @@ const lists = () => {
             const img = document.createElement("img");
             const div1 = document.createElement("div");
             img.src = "https://github.com/jungbug/2023-CNU-Project-Fair/assets/50491038/73fa0684-dbb0-4547-9f4e-cc06a1f07920"
+            img.style.width = "5%";
+            img.style.height = "5%";
             div1.classList.add("list-item");
             div1.innerHTML = key;
             div.appendChild(img);
@@ -122,6 +124,8 @@ const lists = () => {
             const img = document.createElement("img");
             const div1 = document.createElement("div");
             img.src = "https://github.com/jungbug/2023-CNU-Project-Fair/assets/67012995/2c7f8edf-843b-40f0-88f6-1e65207450c6"
+            img.style.width = "5%";
+            img.style.height = "5%";
             div1.classList.add("list-item");
             div1.innerHTML = key;
             div.appendChild(img);
@@ -137,6 +141,8 @@ const lists = () => {
             const img = document.createElement("img");
             const div1 = document.createElement("div");
             img.src = "https://github.com/jungbug/2023-CNU-Project-Fair/assets/67012995/996bac57-115e-4abb-a4a0-62a3d391d867"
+            img.style.width = "5%";
+            img.style.height = "5%";
             div1.classList.add("list-item");
             div1.innerHTML = key;
             div.appendChild(img);
@@ -152,6 +158,8 @@ const lists = () => {
             const img = document.createElement("img");
             const div1 = document.createElement("div");
             img.src = "https://github.com/jungbug/2023-CNU-Project-Fair/assets/50491038/9331f81c-1af7-40b8-9ead-022b3cf6e3ed"
+            img.style.width = "5%";
+            img.style.height = "5%";
             div1.classList.add("list-item");
             div1.innerHTML = key;
             div.appendChild(img);
@@ -167,6 +175,8 @@ const lists = () => {
             const img = document.createElement("img");
             const div1 = document.createElement("div");
             img.src = "https://github.com/jungbug/2023-CNU-Project-Fair/assets/50491038/17ee1e73-033d-4b58-9b03-953332df5acb"
+            img.style.width = "5%";
+            img.style.height = "5%";
             div1.classList.add("list-item");
             div1.innerHTML = key;
             div.appendChild(img);
@@ -182,6 +192,8 @@ const lists = () => {
             const img = document.createElement("img");
             const div1 = document.createElement("div");
             img.src = "https://github.com/jungbug/2023-CNU-Project-Fair/assets/50491038/ce2a45de-7bc0-48ff-8000-434311f4a99a"
+            img.style.width = "5%";
+            img.style.height = "5%";
             div1.classList.add("list-item");
             div1.innerHTML = key;
             div.appendChild(img);
@@ -197,6 +209,8 @@ const lists = () => {
             const img = document.createElement("img");
             const div1 = document.createElement("div");
             img.src = "https://github.com/jungbug/2023-CNU-Project-Fair/assets/50491038/7a080827-0fcf-495a-93f6-e5937f2ed0f5"
+            img.style.width = "5%";
+            img.style.height = "5%";
             div1.classList.add("list-item");
             div1.innerHTML = key;
             div.appendChild(img);
@@ -212,6 +226,8 @@ const lists = () => {
             const img = document.createElement("img");
             const div1 = document.createElement("div");
             img.src = "https://github.com/jungbug/2023-CNU-Project-Fair/assets/50491038/52cd1b14-3e2f-4850-b454-01af3712e76b"
+            img.style.width = "5%";
+            img.style.height = "5%";
             div1.classList.add("list-item");
             div1.innerHTML = key;
             div.appendChild(img);
@@ -227,6 +243,8 @@ const lists = () => {
             const img = document.createElement("img");
             const div1 = document.createElement("div");
             img.src = "https://github.com/jungbug/2023-CNU-Project-Fair/assets/50491038/b45dc37f-fe23-423b-8711-5aeeffc5f3e0"
+            img.style.width = "5%";
+            img.style.height = "5%";
             div1.classList.add("list-item");
             div1.innerHTML = key;
             div.appendChild(img);
@@ -242,6 +260,8 @@ const lists = () => {
             const img = document.createElement("img");
             const div1 = document.createElement("div");
             img.src = "https://github.com/jungbug/2023-CNU-Project-Fair/assets/50491038/1b682ca3-4991-45a6-b655-691ea2ba465e"
+            img.style.width = "5%";
+            img.style.height = "5%";
             div1.classList.add("list-item");
             div1.innerHTML = key;
             div.appendChild(img);
@@ -257,6 +277,8 @@ const lists = () => {
             const img = document.createElement("img");
             const div1 = document.createElement("div");
             img.src = "https://github.com/jungbug/2023-CNU-Project-Fair/assets/50491038/1bf489b9-1fcd-41d5-a9d7-2c31700bb86c"
+            img.style.width = "5%";
+            img.style.height = "5%";
             div1.classList.add("list-item");
             div1.innerHTML = key;
             div.appendChild(img);
@@ -272,6 +294,8 @@ const lists = () => {
             const img = document.createElement("img");
             const div1 = document.createElement("div");
             img.src = "https://github.com/jungbug/2023-CNU-Project-Fair/assets/50491038/f8303913-23d0-40ee-92bc-f5e112d9418b"
+            img.style.width = "5%";
+            img.style.height = "5%";
             div1.classList.add("list-item");
             div1.innerHTML = key;
             div.appendChild(img);
@@ -287,6 +311,8 @@ const lists = () => {
             const img = document.createElement("img");
             const div1 = document.createElement("div");
             img.src = "https://github.com/jungbug/2023-CNU-Project-Fair/assets/50491038/ec620770-7821-4e65-9a75-4cbf322086f9"
+            img.style.width = "5%";
+            img.style.height = "5%";
             div1.classList.add("list-item");
             div1.innerHTML = key;
             div.appendChild(img);
@@ -302,6 +328,8 @@ const lists = () => {
             const img = document.createElement("img");
             const div1 = document.createElement("div");
             img.src = "https://github.com/jungbug/2023-CNU-Project-Fair/assets/50491038/cc066bbf-89f7-40e0-a252-e389b233a7f1"
+            img.style.width = "5%";
+            img.style.height = "5%";
             div1.classList.add("list-item");
             div1.innerHTML = key;
             div.appendChild(img);
@@ -317,6 +345,8 @@ const lists = () => {
             const img = document.createElement("img");
             const div1 = document.createElement("div");
             img.src = "https://github.com/jungbug/2023-CNU-Project-Fair/assets/50491038/a846f1ec-2f63-4dca-897f-95cb10f541f6"
+            img.style.width = "5%";
+            img.style.height = "5%";
             div1.classList.add("list-item");
             div1.innerHTML = key;
             div.appendChild(img);
@@ -332,6 +362,8 @@ const lists = () => {
             const img = document.createElement("img");
             const div1 = document.createElement("div");
             img.src = "https://github.com/jungbug/2023-CNU-Project-Fair/assets/50491038/cabe1648-f50f-4c1f-acb1-d3af490c0dc3"
+            img.style.width = "5%";
+            img.style.height = "5%";
             div1.classList.add("list-item");
             div1.innerHTML = key;
             div.appendChild(img);
