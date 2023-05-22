@@ -33,7 +33,7 @@ nextButton.addEventListener('click', () => {
     page1.classList.add("display-none");
     page2.classList.remove("display-none");
   } else {
-    alert("한개 이상의 학생회를 선택해주세요.")
+    alert("1개 이상의 학생회를 선택해주세요.")
   }
 });
 
@@ -57,7 +57,7 @@ nextButton2.addEventListener('click', () => {
     page3.classList.remove("display-none");
     lists();
   } else {
-    alert("한개 이상의 카테고리를 선택해주세요.")
+    alert("1개 이상의 카테고리를 선택해주세요.")
   }
 });
 
@@ -93,12 +93,6 @@ previousButton3.addEventListener('click', () => {
 });
 
 const lists = () => {
-  // if(listDiv.childElementCount > 0){
-  //   listDiv.remove();
-  //   const div = document.createElement('div');
-  //   div.id = "list-div";
-  //   listContainer.appendChild(div);
-  // }
   selectIndex.forEach((value) => {
     selectIndex2.forEach((value2) => {
       if (value === "동행") {
