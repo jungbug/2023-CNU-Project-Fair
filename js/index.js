@@ -106,7 +106,7 @@ const lists = () => {
             const div = document.createElement('div');
             const img = document.createElement("img");
             const div1 = document.createElement("div");
-            img.src = "https://github.com/jungbug/2023-CNU-Project-Fair/assets/67012995/2e95d331-31b6-49aa-91df-fc46bdd4d9b6"
+            img.src = "https://github.com/jungbug/2023-CNU-Project-Fair/assets/50491038/73fa0684-dbb0-4547-9f4e-cc06a1f07920"
             div1.classList.add("list-item");
             div1.innerHTML = key;
             div.appendChild(img);
