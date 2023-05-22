@@ -3,6 +3,7 @@ const imgs1 = document.querySelectorAll('.img1');
 const nextButton = document.getElementById('next-button');
 const nextButton2 = document.getElementById('next-button2');
 const previousButton2 = document.getElementById('previous-button2');
+const startButton = document.getElementById("start-button3");
 const listDiv = document.getElementById('list-div');
 const page1 = document.getElementById('page1');
 const page2 = document.getElementById('page2');
@@ -35,6 +36,10 @@ nextButton.addEventListener('click', () => {
   } else {
     alert("1개 이상의 학생회를 선택해주세요.")
   }
+});
+
+startButton.addEventListener("click", function() {
+  location.reload();
 });
 
 for (let i = 0; i < imgs1.length; i++) {
