@@ -72,6 +72,10 @@ previousButton2.addEventListener('click', () => {
 });
 
 const searchInput = document.getElementById("search-input");
+searchInput.style.backgroundColor = "#2BC1BC";
+searchInput.style.margin = "0 auto";
+searchInput.style.display = "block";
+searchInput.style.textAlign = "center";
 const listContainer = document.getElementById("list-container");
 const listItemElements = listContainer.getElementsByClassName("list-item");
 
